@@ -2,6 +2,10 @@
 
 Este é um projeto de chat em tempo real desenvolvido com Node.js, Express.js, Socket.IO e MongoDB.
 
+## Demonstração
+
+![Chat em funcionamento](docs/real-time-chat.jpg)
+
 ## Visão geral
 
 O Real Time Chat é uma aplicação web que permite aos usuários se comunicarem em tempo real. Ele oferece uma interface simples e intuitiva para enviar e receber mensagens instantaneamente.
@@ -19,30 +23,30 @@ Para executar este projeto localmente, siga estas etapas:
 
 1. Clone o repositório em sua máquina local:
 
-    ```
-    git clone https://github.com/GustavoWillian7/RealTimeChat.git
-    ```
+   ```
+   git clone https://github.com/GustavoWillian7/RealTimeChat.git
+   ```
 
 2. Instale as dependências do projeto:
 
-    ```
-    cd real-time-chat
-    npm install
-    ```
+   ```
+   cd real-time-chat
+   npm install
+   ```
 
 3. Configure as variáveis de ambiente:
 
-    Crie um arquivo `.env` na raiz do projeto e adicione as seguintes variáveis:
+   Crie um arquivo `.env` na raiz do projeto e adicione as seguintes variáveis:
 
-    ```
-    MONGO_URI=URL_do_seu_banco_de_dados_MongoDB
-    PORT=3000
-    ```
+   ```
+   MONGO_URI=URL_do_seu_banco_de_dados_MongoDB
+   PORT=3000
+   ```
 
 4. Inicie o servidor:
 
-    ```
-    npm start
-    ```
+   ```
+   npm start
+   ```
 
 5. Acesse o chat no seu navegador em `http://localhost:3000`.
