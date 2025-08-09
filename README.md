@@ -20,7 +20,7 @@ Para executar este projeto localmente, siga estas etapas:
 1. Clone o repositório em sua máquina local:
 
     ```
-    git clone https://github.com/seu-usuario/real-time-chat.git
+    https://github.com/GustavoWillian7/RealTimeChat.git
     ```
 
 2. Instale as dependências do projeto:
